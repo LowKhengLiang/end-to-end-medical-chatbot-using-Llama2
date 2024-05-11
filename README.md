@@ -12,3 +12,6 @@ conda activate mchatbot
 ```bash
 pip install -r requirements.txt
 ```
+
+Change ipynb kernel to specified mchatbot
+
